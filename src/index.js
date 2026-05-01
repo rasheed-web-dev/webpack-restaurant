@@ -1,3 +1,4 @@
-import "./styles.css";
+import load from './load.js';
+import './styles.css';
 
-alert('it works!');
+load();
